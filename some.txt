@@ -1,5 +1,4 @@
-<h4>Phone - +37378016020</h4>
-    <h4>Email - <u>killer22802@mail.ru</u></h4>
+
     <h3>Profession:</h3>
     <h5>I love to solve difficult problems with programming. Despite the lack of necessity in using complicated algorithms during web development, it is interesting domain for me to work in</h5>
     <h3>Education:</h3> 
