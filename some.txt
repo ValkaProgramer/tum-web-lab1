@@ -1,3 +1,1 @@
-    <h3>Education:</h3> 
-    <h5>I have achieved Bacalaureat degree with great exam marks. My favorite subject was informatics which I picked as the exam for choice</h5>
     
