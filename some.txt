@@ -1,6 +1,3 @@
-
-    <h3>Profession:</h3>
-    <h5>I love to solve difficult problems with programming. Despite the lack of necessity in using complicated algorithms during web development, it is interesting domain for me to work in</h5>
     <h3>Education:</h3> 
     <h5>I have achieved Bacalaureat degree with great exam marks. My favorite subject was informatics which I picked as the exam for choice</h5>
     
